@@ -1,6 +1,6 @@
 # 003. Use Git Flow as a Reliable Version Control Model
 
-Video: 
+Video: https://egghead.io/lessons/git-use-git-flow-as-a-reliable-version-control-model
 
 A reliable version control and source code tracking process is important for delivering apps with consistency and reliability. In this lesson, we will learn aspects of the Git Flow branching model which provide standards for developing and deploying apps with Git. We will walk through the methodologies of this well-known branching model, how to work with it from develop through to staging environments, and versioning your source code properly for production.
 
